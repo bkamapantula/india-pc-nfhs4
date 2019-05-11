@@ -1,15 +1,16 @@
-# india-pc-nfhs4
+# NFHS4 indicators mapped with Indian Parliamentary Constituencies
+
 Parliamentary constituency factsheet for indicators of nutrition, health, and development in India using NFHS4 data.
 
 Source: https://www.hsph.harvard.edu/population-development/indiapcfactsheets/
+
+PDF: https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1266/1266/20/PC-Factsheet-Nutrition-Health-and-Developmet-Indicators_HCPDS-working-paper_Volume-18_no_4.pdf
 
 ## List of tables - sample
 ![sample table of contents for indicators list](pc-nfhs-indicators.png)
 
 ## Table content - sample
 ![Nutritional Profile across 543 Parliamentary Constituencies](table1.png)
-
-PDF: https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1266/1266/20/PC-Factsheet-Nutrition-Health-and-Developmet-Indicators_HCPDS-working-paper_Volume-18_no_4.pdf
 
 # Content extraction
 
