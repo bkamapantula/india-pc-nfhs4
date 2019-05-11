@@ -8,7 +8,7 @@ PDF: https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1266/1266/20/PC-Facts
 
 # Data
 
-There are 19 tables in total. Currently [data.xlsx](data.xlsx) has clean data for 4 tables, one in each sheet.
+There are 19 tables in total. Currently [data](https://docs.google.com/spreadsheets/d/14ri-R2TAYmPhVhiiJczv9fSe-ahnwCplUW2JPqfpUC8/edit?usp=sharing) has clean data for 4 tables, one in each sheet.
 
 ## List of tables
 
