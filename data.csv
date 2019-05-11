@@ -1,0 +1,544 @@
+State,PC,MPCE (Rs.),Poverty (%),GINI
+Andaman & Nicobar Island,Andaman & Nicobar Islands,2881.3,4.4,0.3
+,Araku,1804.8,30,0.3
+,Anakapalli,2154,31.7,0.4
+,Srikakulam,1818,15.3,0.2
+,Eluru,2084.6,11,0.2
+,Rajahmundry,1888.9,14.9,0.2
+,narsapuram,2014,10.5,0.2
+,Amlapuram,1824,17.2,0.2
+,narasaraopet,2001,19.8,0.3
+,Machilipatnam,2276.9,12.3,0.3
+,Guntur,2000.8,19.8,0.3
+,Ongole,1835,10.9,0.2
+,Bapatla,1907.2,14.8,0.2
+Andhra Pradesh,Kurnool,1394,42.5,0.2
+,Vizianagaram,1591.5,28.6,0.2
+,Kakinada,1824,17.2,0.2
+,Rajampet,1876.6,20.2,0.3
+,Nellore,1912.8,13.2,0.2
+,Anantapur,1450,33.7,0.2
+,Kadapa,2065,18.2,0.3
+,nandyal,1394,42.5,0.2
+,Chittoor,1777.1,21.3,0.3
+,Tirupati,1861.4,16.9,0.2
+,Hindupur,1450,33.7,0.2
+,Vijayawada,2278,12.3,0.3
+,Visakhapatnam,2048.8,32.6,0.3
+Arunanchal Pradesh,Arunachal West,1641.7,38.8,0.2
+,Arunachal East,2277.6,26.9,0.2
+Assam,Lakhimpur,1440.8,28.9,0.2
+,Dibrugarh,1829,15.7,0.2
+,Jorhat,1362.2,36.7,0.2
+,Tezpur,1157.5,44.1,0.1
+,Kaliabor,1275,36.9,0.2
+,Mangaldoi,1221.9,40.4,0.2
+,nagaon,1298.7,33.7,0.2
+,Autonomous District,1034,64.6,0.1
+,Dhubri,1163.3,50.8,0.2
+,Karimganj,882.9,79,0.1
+,Silchar,992,69.1,0.1
+,Kokrajhar,1135.7,44.5,0.2
+,Guwahati,1857.7,24.5,0.2
+,Barpeta,1227.5,39.5,0.2
+Bihar,Muzaffarpur,1021,58.7,0.2
+,Valmiki nagar,1029,51.2,0.2
+,Araria,1108,45.2,0.2
+,Gopalganj,1079,38,0.1
+,Siwan,1044,41.9,0.1
+,Vaishali,1049.4,56.4,0.2
+,Jhanjharpur,1112,41.8,0.2
+,Supaul,1142.3,45.1,0.2
+,Pashchim Champaran,1002.4,53.7,0.2
+,Madhubani,1092.7,45.1,0.2
+,Kishanganj,1065.8,49.4,0.2
+,Darbhanga,1059.5,50.8,0.2
+,Purnia,1035.8,49.9,0.1
+,Maharajganj,1058.1,48.4,0.2
+,Madhepura,1112,45,0.2
+,Begusarai,1200,38,0.2
+,Arrah,942,59.1,0.2
+,Sasaram,983,58,0.2
+,nawada,1030.6,47.3,0.1
+,Banka,988.7,56.4,0.1
+,nalanda,891,73.6,0.2
+,Katihar,998,57.4,0.2
+,Samastipur,1111.2,46.3,0.2
+,Khagaria,1187.1,37.1,0.2
+,Pataliputra,1373,49.4,0.3
+,Buxar,995.6,63.3,0.2
+,Patna Sahib,1369.1,49.3,0.3
+,Bhagalpur,1049.7,61.6,0.2
+,Munger,1126,50.5,0.2
+,Purba Champaran,982.9,55.6,0.2
+,Sheohar,939.3,64.5,0.2
+,Sitamarhi,863,74.9,0.2
+,Ujiapur,1134.9,45.4,0.2
+,Hajipur,1179.3,46.3,0.2
+,Karakat,1000.8,55.1,0.2
+,Saran (Chhapra),1065,51.5,0.2
+,Jamui,903.9,64.6,0.2
+,Aurangabad,1012.7,53.8,0.2
+,Gaya,1059,52.5,0.2
+,Jahanabad,1051,47.3,0.2
+Chandigarh,Chandigarh,3549,16.8,0.3
+Chhattisgarh,Janjgir-Champa,1103.5,51.9,0.2
+,Raipur,1280,43.8,0.3
+,Surguja,1111.2,42.4,0.2
+,Bilaspur,1295,41.2,0.3
+,Rajnandgaon,980.3,65.3,0.2
+,Durg,1320,47.8,0.3
+,Mahasamund,1139.3,46,0.2
+,Raigarh,1088.1,49.3,0.2
+,Kanker,1154.7,52.9,0.3
+,Bastar,905.8,74.4,0.2
+,Korba,1204.3,48.6,0.3
+Dadara & nagar Havelli,Dadra & nagar Haveli,1570.5,44.8,0.3
+Daman & Diu,Daman & Diu,2009.7,24.9,0.2
+Goa,South Goa,2632.7,5.1,0.2
+,North Goa,2593,8.8,0.2
+Gujarat,Bardoli,N/A,N/A,N/A
+,Junagadh,1860.7,13.5,0.2
+,Surat,2101,26.9,0.2
+,Kheda,1685.5,34.8,0.2
+,Ahmadabad (West),2513,24.3,0.3
+,Jamnagar,1665,19.4,0.1
+,Sabar Kantha,1463,25.2,0.2
+,Banas Kantha,1241,49,0.2
+,Patan,1388.4,51.8,0.3
+,Panch Mahals,1264.9,46.5,0.2
+,Dohad,1089.6,64.7,0.1
+,Vadodara,1794,37.7,0.3
+,Anand,1477.6,35.5,0.2
+,Amreli,1695.5,13.7,0.2
+,Ahmadabad (East),1956.2,34.2,0.3
+,Rajkot,2217.4,16.4,0.2
+,Surendranagar,2168.5,30,0.3
+,navsari,1827.2,30.5,0.2
+,Bharuch,1827.8,31.2,0.2
+,Chhota Udaipur,1610.6,40,0.2
+,Porbandar,2007.7,19.1,0.2
+,Valsad,1988.2,33,0.3
+,Gandhinagar,2184.4,30.1,0.3
+,Mahesana,1612.3,42.7,0.3
+,Bhavnagar,1654,30.3,0.2
+,Kachchh,2071.6,25.9,0.3
+Haryana,Ambala,2343.2,22.5,0.3
+,Krukshetra,2033.8,16.3,0.2
+,Sirsa,1780,28.9,0.3
+,Karnal,2232.6,17.5,0.3
+,Sonipat,2290.2,10.3,0.2
+,Hisar,2040.4,18.1,0.2
+,Rohtak,2422.7,9.2,0.2
+,Bhiwani - Mahendragarh,2052.6,15,0.2
+,Gurgaon,N/A,N/A,N/A
+,Faridabad,N/A,N/A,N/A
+Himachal Pradesh,Hamirpur,2030.5,8.6,0.2
+,Kangra,2269.2,6.6,0.2
+,Shimla,2282,10.3,0.3
+,Mandi,1750.6,13.3,0.2
+Jammu & Kashmir,Leh (Ladakh),N/A,N/A,N/A
+,Jammu,N/A,N/A,N/A
+,Srinagar,N/A,N/A,N/A
+,Anantnag,N/A,N/A,N/A
+,Baramula,N/A,N/A,N/A
+,Udhampur,N/A,N/A,N/A
+Jharkhand,Jamshedpur,1083,49.5,0.2
+,Singhbhum,N/A,N/A,N/A
+,Rajmahal,953.6,57.2,0.2
+,Dumka,1001.6,54,0.2
+,Godda,974.6,60,0.2
+,Palamu,1374.5,39.9,0.2
+,Hazaribagh,1061.5,47.1,0.2
+,Dhanbad,1462.4,37.8,0.3
+,Kodarma,1031.5,49.1,0.2
+,Lohardaga,1087.6,56,0.2
+,Khunti,N/A,N/A,N/A
+,Chatra,1067.8,55.1,0.2
+,Ranchi,N/A,N/A,N/A
+,Giridih,1369.2,39.2,0.2
+Karnataka,Gulbarga,N/A,N/A,N/A
+,Bijapur,1155,37.9,0.2
+,Chikkodi,1268,38.3,0.2
+,Raichur,N/A,N/A,N/A
+,Koppal,1219.8,43.8,0.2
+,Haveri,1281.4,30.3,0.2
+,Davanagere,1430,33.5,0.2
+,Chikkaballapura,2415.9,16.3,0.3
+,Udupi Chikmagalur,1971,11.9,0.2
+,Tumkur,1493.8,17,0.2
+,Kolar,2074.8,9.1,0.2
+,Bangalore Rural,3147.6,8.5,0.3
+,Dharwad,1584.9,32.7,0.3
+,Bangalore North,3806,5.5,0.3
+,Dakshina Kannada,2903.2,6.8,0.4
+,Mysore,2098.3,10.4,0.3
+,Chamrajnagar,1794.3,14.1,0.2
+,Mandya,1662.8,18.1,0.2
+,Bellary,1250,37.6,0.2
+,Chitradurga,1336.6,21.5,0.2
+,Bidar,1242.1,37.8,0.2
+,Uttara Kannada,1518,22.5,0.2
+,Shimoga,1535.3,11.9,0.2
+,Hassan,1405,10.5,0.1
+,Belgaum,1267,38.4,0.2
+,Bangalore South,3806,5.5,0.3
+,Bangalore Central,3806,5.5,0.3
+,Bagalkot,1081.8,51.8,0.2
+Kerala,Malappuram,2123,11.1,0.3
+,Pathanamthitta,2703.8,6.9,0.3
+,Mavelikkara,2509.9,10,0.3
+,Thiruvananthapuram,3281,3.9,0.3
+,Palakkad,2401,10.2,0.3
+,Thrissur,2661,8.5,0.3
+,Alathur,2490.9,9.6,0.3
+,Kasaragod,1706.4,20.7,0.2
+,Attingal,3280.9,3.9,0.3
+,Vadakara,2150.3,16.1,0.3
+,Kozhikode,2170,15.4,0.3
+,Kannur,2044,19.8,0.3
+,Chalakudy,3164,9.6,0.4
+,Idukki,3130.4,5.4,0.4
+,Alappuzha,2387.4,11.3,0.3
+,Kottayam,3153.4,5.6,0.3
+,Kollam,2605,8.4,0.3
+,Ernakulam,3411.9,10.1,0.4
+,Wayanad,2092.9,12.8,0.3
+,Ponnani,2146.9,11,0.3
+Lakshadweep,Lakshadweep,2648,4.1,0.3
+Madhya Pradesh,Bhind,1169.9,45.8,0.2
+,Balaghat,954.1,63.8,0.2
+,Hoshangabad,1384.5,37.2,0.3
+,Dhar,1547.8,23.6,0.2
+,Indore,2492,12.6,0.3
+,Gwalior,1663.9,27.4,0.3
+,Sidhi,945.2,67.3,0.2
+,Rajgarh,1366.4,34.2,0.2
+,Sagar,1124,53,0.2
+,Damoh,1136.4,53,0.2
+,Shahdol,1070.6,63.6,0.3
+,Dewas,1537.8,25.9,0.2
+,Ujjain,1804,25.7,0.3
+,Bhopal,2890.8,33.9,0.4
+,Vidisha,1355.1,40.9,0.2
+,Ratlam,1329.7,38.9,0.2
+,Rewa,913.4,72.7,0.2
+,Satna,797,80.2,0.2
+,Mandsaur,1361,22.2,0.2
+,Guna,1443,24.9,0.2
+,Chhindwara,1374,57.6,0.4
+,Betul,1042.5,70.2,0.3
+,Khargone,945.6,64.6,0.2
+,Jabalpur,1454.5,58.7,0.3
+,Mandla,970.6,63.5,0.2
+,Morena,1120.3,56.1,0.2
+,Tikamgarh,1376.4,18.3,0.2
+,Khajuraho,1164.2,57.1,0.2
+,Khandwa,1144.6,57.7,0.2
+Maharashtra,Buldana,1422,45.7,0.2
+,Madha,1940.9,17.4,0.2
+,Satara,1959,12.4,0.3
+,Jalgaon,1630,34.4,0.2
+,Akola,1434.1,41.9,0.2
+,Sangli,1736,15.1,0.2
+,Solapur,1928,21.1,0.2
+,Amravati,1541,37.3,0.2
+,Ramtek,2424,19.4,0.3
+,nandurbar,1371.3,37.2,0.2
+,Bhandara - Gondiya,1556.8,35.5,0.3
+,Wardha,1753,24.2,0.2
+,Shirur,2709,14.7,0.3
+,Beed,1476,31.1,0.2
+,Maval,2421.2,18.1,0.3
+,Parbhani,1348.8,39.9,0.2
+,Raigarh,2031.1,21.3,0.3
+,Osmanabad,1690,19.3,0.2
+,Hatkanangle,1668.3,16,0.2
+,Dhule,1722.7,28.1,0.2
+,Garhchiroli - Chimur,1405.3,37.6,0.2
+,Raver,1600.5,36,0.2
+,Biwandi,2757,19.4,0.3
+,Dindori,1956.9,23.2,0.2
+,Jalna,1590.1,25.9,0.2
+,Aurangabad,1680,30.4,0.2
+,Chandrapur,1396.9,39.3,0.2
+,nashik,1957,23.2,0.3
+,Shirdi,1526,27.1,0.2
+,Hingoli,1439.9,37.6,0.2
+,Ahmadnagar,1526,27.1,0.2
+,Palghar,2756.4,19.4,0.3
+,Latur,1602.6,28.7,0.2
+,Baramati,2709,14.7,0.3
+,Ratnagiri - Sindhudurg,1585.2,17.8,0.2
+,Kolhapur,1642,16.3,0.2
+,Thane,2770.6,19.3,0.3
+,Mumbai North,3957,9.3,0.3
+,Mumbai North-West,3960,9.3,0.3
+,Mumbai North-East,3960,9.3,0.3
+,Mumbai North-Central,N/A,N/A,N/A
+,Mumbai South,N/A,N/A,N/A
+,Mumbai South-Central,N/A,N/A,N/A
+,Kalyan,2757,19.4,0.3
+,Pune,2709,14.7,0.3
+,nanded,1501.3,40.8,0.2
+,Yavatmal - Washim,1377.5,35.3,0.2
+,nagpur,2424,19.4,0.3
+Manipur,Inner Manipur,1353.2,37.5,0.1
+,Outer Manipur,1252.5,52.3,0.1
+Meghalaya,Tura,1525.9,21.6,0.1
+,Shillong,1614.1,27.6,0.2
+Mizoram,Mizoram,1963.5,27,0.2
+Nagaland,Nagaland,1956.4,16.8,0.2
+NCT of Delhi,West Delhi,3023,18.8,0.3
+,North West Delhi,3185.6,19.4,0.3
+,Chandni Chowk,N/A,N/A,N/A
+,North East Delhi,2530.6,22.3,0.2
+,South Delhi,3023,18.8,0.3
+,East Delhi,N/A,N/A,N/A
+,New Delhi,N/A,N/A,N/A
+Odisha,Bhadrak,1018.8,41.3,0.2
+,Jajapur,1152,37.2,0.2
+,Sambalpur,1204.2,38.1,0.2
+,Baleshwar,1052,50,0.2
+,Kendujhar,973.4,56.7,0.2
+,Mayurbhanj,814,69.7,0.2
+,Sundargarh,1192,60.2,0.3
+,Bargarh,1150.4,44.3,0.2
+,Dhenkanal,1339.9,16,0.2
+,Bolangir,981.1,53.5,0.2
+,Kalahandi,827.6,67.4,0.2
+,Kandhamal,950,56.2,0.2
+,Kendrapara,1426.8,23.7,0.2
+,Cuttack,1404.8,26,0.2
+,Bhubaneswar,1709.4,36.1,0.3
+,Aska,1143,43.8,0.2
+,Jagatsinghpur,1173.6,33.8,0.2
+,nabarangapur,733.7,79.9,0.2
+,Koraput,888.7,64.7,0.2
+,Puri,1222.7,36,0.2
+,Berhampur,1085.6,47,0.2
+Puducherry,Puducherry,2694,3.4,0.3
+Punjab,Jalandhar,2558.6,13.6,0.3
+,Hoshiarpur,2194.8,12.9,0.2
+,Fatehgarh Sahib,2384.5,14.2,0.3
+,Firozpur,1968.5,17.8,0.2
+,Patiala,2740.9,10.5,0.3
+,Bathinda,2110.8,16.8,0.2
+,Gurdaspur,2046,13.6,0.2
+,Amritsar,2018,23.5,0.2
+,Khadoor Sahib,2244.2,15.8,0.3
+,Anandpur Sahib,2359.1,10.2,0.3
+,Sangrur,2309.2,16.4,0.3
+,Ludhiana,2296.9,17.4,0.2
+,Faridkot,1986.5,15.4,0.2
+Rajasthan,Churu,1573.6,20.5,0.2
+,Bikaner,1726.8,23.4,0.2
+,Jhunjhunun,1772.3,14.6,0.2
+,Alwar,2147,24.2,0.3
+,Jodhpur,2007.4,21.5,0.3
+,Sikar,1770.2,16.5,0.2
+,nagaur,1548.4,25.3,0.2
+,Tonk - Sawai Madhopur,1528.3,28.1,0.2
+,Bharatpur,1534.7,41,0.3
+,Barmer,1487.1,24.3,0.2
+,Ajmer,1905.3,22.3,0.3
+,Karauli - Dhaulpur,1296.3,41.6,0.2
+,Jhalawar - Baran,1259.8,40.5,0.2
+,Rajsamand,1516.8,24.5,0.2
+,Jalore,1430.5,32.9,0.2
+,Bhilwara,1524.6,27.8,0.2
+,Kota,1616.8,28.4,0.2
+,Pali,1778.5,17.2,0.2
+,Ganganagar,1688.8,21,0.2
+,Dausa,1844.4,19.9,0.2
+,Chittaurgarh,N/A,N/A,N/A
+,Jaipur,2232,14.3,0.3
+,Banswara,N/A,N/A,N/A
+,Udaipur,N/A,N/A,N/A
+,Jaipur Rural,2221.3,15.4,0.3
+Sikkim,Sikkim,1664.4,21.4,0.2
+Tamil Nadu,Erode,N/A,N/A,N/A
+,Tenkasi,1704.2,27.4,0.2
+,Tirunelveli,1762,23,0.2
+,Kanniyakumari,2323,15.8,0.3
+,Coimbatore,N/A,N/A,N/A
+,Mayiladuthurai,1769.9,14.8,0.2
+,Perambalur,1957.9,16.9,0.2
+,Dindigul,1724,20.8,0.2
+,Arakkonam,1757.2,22.9,0.2
+,Chennai South,2793.3,12.1,0.3
+,Krishnagiri,1513.6,46.4,0.3
+,Arani,1318.3,45.3,0.2
+,Tiruvannamalai,1514.3,32.8,0.2
+,Sriperumbudur,2327.8,13.2,0.3
+,Vellore,1649,25.4,0.2
+,Kancheepuram,2305,16,0.3
+,Kallakurichi,1359.8,44.8,0.2
+,Nilgiris,N/A,N/A,N/A
+,Chidambaram,1483.1,33.8,0.2
+,Chennai North,2981.1,10.6,0.3
+,Chennai Central,3168.9,11.1,0.3
+,Thoothukkudi,1478,30.6,0.2
+,nagappattinam,1659.8,15.1,0.2
+,Tiruvallur,2346.3,9.9,0.3
+,Viluppuram,1044,63.5,0.2
+,Cuddalore,1312,50.7,0.2
+,Shivaganga,1500.7,34.9,0.2
+,Theni,1756.5,22.2,0.2
+,Ramanathapuram,1563.4,30,0.2
+,namakkal,1991,18.7,0.3
+,Thanjavur,1875.9,14.4,0.2
+,Tiruchirappalli,1882.7,16.3,0.2
+,Pollachi,N/A,N/A,N/A
+,Karur,1919.2,18.9,0.2
+,Dharmapuri,1462.6,39.4,0.3
+,Madurai,1916,22.1,0.2
+,Virudunagar,1700.9,32.7,0.2
+,Tiruppur,N/A,N/A,N/A
+,Salem,1594,31,0.2
+Telangana,Zahirabad,1743.5,14.1,0.2
+,Khammam,1407,24.5,0.2
+,Medak,1819,8.8,0.2
+,Bhongir,1720.3,28.6,0.3
+,Chevella,2764.1,15,0.3
+,Secunderabad,1463.4,32,0.2
+,Peddapalle,1846.6,16.8,0.2
+,nalgonda,1419,35.2,0.3
+,nagarkurnool,1756,15.5,0.2
+,Karimnagar,1513,16.7,0.2
+,Nizamabad,1627.8,18.2,0.2
+,Adilabad,2411,16.9,0.3
+,Mahabubabad,1482.8,22.5,0.2
+,Mahbubnagar,1756,15.5,0.2
+,Warangal,1546,20.8,0.2
+,Hyderabad,1481.6,31.7,0.2
+,Malkajgiri,2686.5,16,0.3
+Tripura,Tripura East,1528.9,15.6,0.2
+,Tripura West,1407.1,26.1,0.2
+Uttar Pradesh,Saharanpur,1425,26.6,0.2
+,Kairana,1455.5,22.9,0.2
+,nagina,1156,43.8,0.2
+,Muzaffarnagar,1767,20.2,0.3
+,Baghpat,1971.4,26,0.3
+,Amroha,1669.9,28.5,0.2
+,Sambhal,1202.1,45,0.2
+,Meerut,2610,20.4,0.4
+,Lalganj,1116,54.1,0.2
+,Jalaun,1271.9,43.9,0.2
+,Rampur,1046,50.7,0.2
+,Ghaziabad,2493.2,15,0.4
+,Pilibhit,1231.5,28.9,0.2
+,Bulandshahr,1331,31.4,0.2
+,Kheri,1167,42.7,0.2
+,Bareilly,1240.8,40.7,0.2
+,Aonla,1176.4,43.1,0.2
+,Budaun,1075.1,46.9,0.2
+,Shahjahanpur,1081,47.2,0.2
+,Bahraich,1057.3,47.3,0.2
+,Aligarh,1401.1,27.6,0.2
+,Dhaurahra,1132.5,47.3,0.2
+,Etah,1165,48.3,0.2
+,Mathura,1264.5,32.2,0.2
+,Farrukhabad,1147,45.3,0.2
+,Hardoi,1036,48.6,0.2
+,Hathras,1435.7,27.1,0.2
+,Domriaganj,1142.9,43.9,0.2
+,Sitapur,1089,53.2,0.2
+,Firozabad,1132.1,48,0.2
+,Maharajganj,1012.1,51.7,0.2
+,Mainpuri,1043.9,52.5,0.2
+,Kaisarganj,1014.2,49,0.2
+,Gonda,984.3,51.4,0.2
+,Misrikh,1112,48.5,0.2
+,Barabanki,948,52.2,0.1
+,Kushi nagar,1087,42.5,0.2
+,Fatehpur Sikri,1310,45.2,0.2
+,Azamgarh,1115.3,54.2,0.2
+,Bansgaon,1323,39.5,0.3
+,Amethi,1133.3,45.3,0.2
+,Akbarpur,1506.5,39.4,0.3
+,Rae Bareli,956,58.4,0.2
+,Mohanlalganj,1860.6,44.3,0.3
+,Deoria,1223.5,37.8,0.2
+,Sant Kabir nagar,1141.6,45.5,0.2
+,Faizabad,1160.5,56.1,0.3
+,Etawah,1169.2,32.7,0.2
+,Sultanpur,1240,37.4,0.3
+,Salempur,1206.1,42.8,0.2
+,Ghosi,1100.1,57.1,0.2
+,Chandauli,1318.8,42.7,0.3
+,Allahabad,1382,46.4,0.3
+,Mirzapur,1106,48.2,0.2
+,Robertsganj,1061.5,54.4,0.2
+,Fatehpur,986,54.4,0.1
+,Jaunpur,1059,48.7,0.2
+,Pratapgarh,974,58.5,0.2
+,Hamirpur,1050.3,56.1,0.2
+,Kaushambi,939.9,60.5,0.2
+,Ballia,1105.1,45.5,0.2
+,Jhansi,1393.7,36.2,0.2
+,Ghazipur,1074,41.8,0.2
+,Machhlishahr,1162,46.1,0.2
+,Phulpur,1382,46.4,0.3
+,Sant Ravi Das nagar (Bhadohi),1102.9,56.3,0.2
+,Ambedkar nagar,1106.1,51,0.2
+,Banda,953.2,57.9,0.1
+,Kanpur,1542.5,40,0.3
+,Unnao,1103.1,48.7,0.2
+,Kannauj,1020.2,52.9,0.2
+,Lucknow,2008,42.6,0.4
+,Varanasi,1503,37.5,0.3
+,Gorakhpur,1315.3,42.7,0.3
+,Basti,1063.1,55.4,0.3
+,Shrawasti,982.8,47,0.1
+,Agra,1290.6,45.8,0.2
+,Gautam Buddha nagar,2253.7,22.1,0.3
+,Bijnor,1672.1,29.5,0.3
+,Moradabad,1186.8,44.7,0.2
+Uttarakhand,Almora,1587,18.5,0.2
+,Hardwar,2797,18.9,0.4
+,Tehri Garhwal,1861.6,15.3,0.2
+,Garhwal,1550.4,17.7,0.2
+,nainital - Udhamsingh nagar,1614.4,34.6,0.3
+West Bengal,Darjiling,1599.7,29.2,0.2
+,Arambag,1352.2,40.7,0.2
+,Barasat,1979.3,26.5,0.3
+,Medinipur,1370.6,32.4,0.2
+,Tamluk,1449.7,29.3,0.3
+,Murshidabad,1215.8,36.5,0.2
+,Krishnanagar,1241,43,0.2
+,Birbhum,1194,33.5,0.2
+,Bolpur,1312.4,37.3,0.2
+,Barddhaman - Durgapur,1442,41.5,0.3
+,Puruliya,1026,53.2,0.2
+,Barddhaman Purba,1442,41.5,0.3
+,Bankura,1163.3,42.2,0.2
+,Asansol,1442,41.5,0.3
+,Ranaghat,1242.3,43,0.2
+,Bishnupur,1236.8,40.3,0.2
+,Jangipur,1211,35.3,0.2
+,Balurghat,1158.7,43.5,0.2
+,Maldah Uttar,1309,29.8,0.2
+,Kolkata Uttar,3406.7,15.1,0.3
+,Jhargram,1301.6,36.2,0.2
+,Kolkata Dakshin,2798.7,19.8,0.3
+,Uluberiya,1787.7,26.2,0.3
+,Mathurapur,1394,30.6,0.2
+,Jaynagar,1653.9,28.8,0.3
+,Diamond Harbour,1394,30.6,0.2
+,Kanthi,1450,29.3,0.3
+,Basirhat,2036,26.1,0.3
+,Bangaon,1724.5,32.8,0.3
+,Koch Bihar,1185,32.8,0.2
+,Alipurduars,1285.7,24.4,0.2
+,Jalpaiguri,1287.1,24.3,0.2
+,Barakpur,2036,26.1,0.3
+,Haora,1789,26.2,0.3
+,Jadavpur,1394,30.6,0.2
+,Hugli,1353,42.3,0.2
+,Shrirampur,1564,34.5,0.2
+,Baharampur,1211,35.3,0.2
+,Maldah Dakshin,1286.3,31,0.2
+,Raiganj,1099.2,51.6,0.2
+,Ghatal,1366.5,32.6,0.2
+,Dum Dum,2036,26.1,0.3
