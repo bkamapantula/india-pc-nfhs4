@@ -23,3 +23,8 @@ While Tabula can get so close to clean data it is not perfect (that's ok). I spe
 Please [report](https://github.com/bkamapantula/india-pc-nfhs4/issues/new) if you notice an error.
 
 If you already know a machine-friendly format for this file, please let me know ([add an issue](https://github.com/bkamapantula/india-pc-nfhs4/issues/new)).
+
+# Citation
+
+Blossom J, Kumar R, Kim R, Swaminathan A, Swaminathan G, Rajpal S, Joe W, Subramanian S V. 2019. *Visualizing Parliamentary Constituency Factsheet for Indicators of Nutrition, Health and Development in India*. Cambridge, MA: Harvard Center for Geographic Analysis and Center for Population and Development Studies.
+
