@@ -6,7 +6,13 @@ Source: https://www.hsph.harvard.edu/population-development/indiapcfactsheets/
 
 PDF: https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1266/1266/20/PC-Factsheet-Nutrition-Health-and-Developmet-Indicators_HCPDS-working-paper_Volume-18_no_4.pdf
 
-## List of tables - sample
+# Data
+
+There are 19 tables in total. Currently [data.xlsx](data.xlsx) has clean data for 4 tables, one in each sheet.
+
+## List of tables
+
+### Sample
 ![sample table of contents for indicators list](pc-nfhs-indicators.png)
 
 ## Table content - sample
@@ -14,11 +20,12 @@ PDF: https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1266/1266/20/PC-Facts
 
 # Content extraction
 
-I used [tabula](https://tabula.technology/) to extract data from PDF tables.
+I used the excellent [tabula](https://tabula.technology/) software to extract data from PDF tables.
 
 ## Data cleaning
 
-While Tabula can get so close to clean data it is not perfect (that's ok). I spent some effort for each table where tabula couldn't determine the table cells properly.
+- While Tabula can get so close to clean data it is not perfect (that's ok). I spent some effort for each table where tabula couldn't determine the table row format properly (or missed).
+- The original PDF didn't seem to mention `Kerala` state as well so it looked as if Kerala constituencies are part of Karnataka. This is fixed.
 
 Please [report](https://github.com/bkamapantula/india-pc-nfhs4/issues/new) if you notice an error.
 
